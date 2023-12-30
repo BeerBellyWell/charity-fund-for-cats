@@ -17,7 +17,7 @@ git clone
 cd cat_charity_fund
 ```
 
-1. Cоздать и активировать виртуальное окружение:
+2. Cоздать и активировать виртуальное окружение:
 
 ```
 python3 -m venv venv
@@ -35,7 +35,7 @@ python3 -m venv venv
     source venv/scripts/activate
     ```
 
-1. Установить зависимости из файла requirements.txt:
+3. Установить зависимости из файла requirements.txt:
 
 ```
 python3 -m pip install --upgrade pip
